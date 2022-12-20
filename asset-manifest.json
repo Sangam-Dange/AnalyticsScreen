@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/AnalyticsScreen/static/css/main.208215f5.css",
+    "main.js": "/AnalyticsScreen/static/js/main.c9a194a8.js",
+    "static/media/error.svg": "/AnalyticsScreen/static/media/error.b43fc6381e5b87f342f5265e0369f1bf.svg",
+    "index.html": "/AnalyticsScreen/index.html",
+    "main.208215f5.css.map": "/AnalyticsScreen/static/css/main.208215f5.css.map",
+    "main.c9a194a8.js.map": "/AnalyticsScreen/static/js/main.c9a194a8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.208215f5.css",
+    "static/js/main.c9a194a8.js"
+  ]
+}
