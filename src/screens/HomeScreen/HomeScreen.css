@@ -1,0 +1,15 @@
+.home__wrapper {
+  height: 100vh;
+  width: 100vw;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.navigate__analytics {
+  padding: 10px 30px;
+  color: white;
+  background-color: #136fed;
+  letter-spacing: 1px;
+  border-radius: 5px;
+}
